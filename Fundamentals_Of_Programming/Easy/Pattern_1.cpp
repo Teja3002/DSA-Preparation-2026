@@ -1,11 +1,3 @@
-/*
- * Problem: Pattern 1
- * Difficulty: Easy
- * Topic: Fundamentals Of Programming
- * Platform: TUF+ (takeuforward.org)
- * Date: 2026-05-16
- */
-
 class Solution {
 public:
     void pattern1(int n) {
