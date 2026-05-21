@@ -1,20 +1,15 @@
-/*
- * Problem: Pattern 2
- * Difficulty: Easy
- * Topic: Fundamentals Of Programming
- * Platform: TUF+ (takeuforward.org)
- * Date: 2026-05-16
- */
+# Inner loop will run for columns.
+            for j in range(i+1):
+                print("*", end="")
+                
+            """ As soon as n stars are printed, move
+            to the next row and give a line break."""
+            print()
 
-class Solution {
-public:
-    void pattern2(int n) {
-for(int i=1;i<=n;i++){
-    for(int j=1;j<=i;j++){ 
-        cout<<"*";
 
-    }
-    cout<<endl;
-}
-    }
-};
+        # Outer loop will run for rows.
+        for i in range(n):
+class Solution:
+    
+    # Function to print pattern2
+    def pattern2(self, n):
