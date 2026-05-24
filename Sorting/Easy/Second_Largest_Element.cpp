@@ -1,5 +1,4 @@
-class Solution:
-    def secondLargestElement(self, nums):
+def secondLargestElement(self, nums):
         temp1=float("-inf")
         temp2=float("-inf")
 
@@ -10,4 +9,6 @@ class Solution:
             elif nums[i]< temp1 and nums[i]>temp2:
                 temp2=nums[i]
                 temp2=temp1
+        if temp2 == float("-inf"):
+            return -1    
         return temp2
