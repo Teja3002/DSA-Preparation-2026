@@ -6,8 +6,8 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | 32 |
-| Easy | 31 |
+| Total Solved | 33 |
+| Easy | 32 |
 | Medium | 1 |
 | Hard | 0 |
 
@@ -23,19 +23,20 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 | Reverse An Array | 1 |
 | Selection Sort | 1 |
 | Linear Search | 1 |
+| Left Rotate Array By One | 1 |
 
 ## Recently Solved
 
 | Problem | Difficulty | Topic | Date |
 |---------|------------|-------|------|
+| Left Rotate Array by One | Easy | Left Rotate Array By One | 2026-05-26 |
 | Maximum Consecutive Ones | Easy | Sorting | 2026-05-24 |
 | Second Largest Element | Easy | Sorting | 2026-05-24 |
 | Largest Element | Easy | Sorting | 2026-05-24 |
 | Linear Search | Easy | Linear Search | 2026-05-24 |
-| Selection Sort | Easy | Selection Sort | 2026-05-23 |
 
 ---
 
-*Last Updated: May 24, 2026*
+*Last Updated: May 25, 2026*
 
 *Auto-synced using TUF+ GitHub Sync Extension*
