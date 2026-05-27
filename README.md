@@ -6,9 +6,9 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | 37 |
+| Total Solved | 38 |
 | Easy | 36 |
-| Medium | 1 |
+| Medium | 2 |
 | Hard | 0 |
 
 ## Topic-wise Progress
@@ -25,16 +25,17 @@ My DSA journey using Striver's A2Z DSA Course on TUF+
 | Linear Search | 1 |
 | Left Rotate Array By One | 1 |
 | Intersection Of Two Sorted Arrays | 1 |
+| Leaders In An Array | 1 |
 
 ## Recently Solved
 
 | Problem | Difficulty | Topic | Date |
 |---------|------------|-------|------|
+| Leaders in an Array | Medium | Leaders In An Array | 2026-05-27 |
 | Majority Element-I | Easy | Sorting | 2026-05-27 |
 | Intersection of two sorted arrays | Easy | Intersection Of Two Sorted Arrays | 2026-05-26 |
 | Find missing number | Easy | Sorting | 2026-05-26 |
 | Move Zeros to End | Easy | Sorting | 2026-05-26 |
-| Left Rotate Array by One | Easy | Left Rotate Array By One | 2026-05-26 |
 
 ---
 
